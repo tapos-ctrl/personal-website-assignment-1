@@ -2,6 +2,9 @@
     margin:0;
     padding:0;
 }
+body{
+    font-family: 'Bebas Neue', cursive;
+}
 section{
     overflow:hidden;
     height:550px;
@@ -61,7 +64,7 @@ p{
 }
 .inqury-box{
     background-image:url("images/Group.png");
-    width:60%;
+    width:53%;
     background-position: center;
     height:80px;
     background-repeat: no-repeat;
@@ -82,7 +85,7 @@ p{
 }
 .chat-button{
     position:absolute;
-    margin-left:320px;
+    margin-left:330px;
     top:25px;
     text-decoration:none;
     background:linear-gradient(to right,tomato,orangered);
