@@ -7,7 +7,7 @@ body{
 }
 section{
     overflow:hidden;
-    height:600px;
+    height:650px;
 }
 .haf-width{
     width:40%;
@@ -60,7 +60,7 @@ p{
 }
 .lastet-section{
     background:#c0c0c073;
-    height: 400px;
+    height: 450px;
     overflow: hidden;
  
 }
