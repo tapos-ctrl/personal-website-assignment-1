@@ -6,7 +6,7 @@ body{
     font-family: 'Bebas Neue', cursive;
 }
 section{
-    overflow:hidden;
+    
     height:550px;
 }
 .haf-width{
@@ -61,6 +61,7 @@ p{
 .lastet-section{
     background:#c0c0c073;
     height:500px;
+ 
 }
 .inqury-box{
     background-image:url("images/Group.png");
@@ -101,9 +102,7 @@ p{
     width:200px;
     margin-left:40%;
 }
-.socail-icon{
-    
-}
+
 .socail-icon img{
     width:20px;
     margin:10px;
