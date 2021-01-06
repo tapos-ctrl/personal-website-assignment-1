@@ -1,0 +1,134 @@
+*{
+    margin:0;
+    padding:0;
+}
+section{
+    overflow:hidden;
+    height:550px;
+}
+.haf-width{
+    width:40%;
+    margin:5%;
+    float:left;
+}
+.haf-width img{
+    width:100%;
+}
+.marqup-orange{
+    color:orange;
+}
+h1{
+    font-size:40px;
+    margin-bottom:30px;
+}
+
+p{
+    margin-bottom:30px;
+}
+.hader-button{
+    padding:10px 30px;
+    background:linear-gradient( to right, tomato,orange);
+    text-decoration:none;
+    border-radius:3px;
+    color:white;
+}
+.hader-button img{
+    width:20px;
+    background:transparent;
+}
+.thard-width{
+    width:31%;
+    float:left;
+    margin:10px;
+}
+.lastet-group{
+    margin:5%;
+}
+.thard-width img{
+    width:100%;
+}
+.lastet-head{
+    margin-top:60px;
+    text-align:center;
+    
+}
+.lastet-head span{
+    color:orangered;
+}
+.lastet-section{
+    background:#c0c0c073;
+    height:500px;
+}
+.inqury-box{
+    background-image:url("images/Group.png");
+    width:60%;
+    background-position: center;
+    height:80px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position:relative;
+    margin:6% 20%;
+    border-radius:5px;
+}
+.chat-box{
+    float:left;
+    
+}
+.chat-inquiry{
+    margin-left:20px;
+    margin-top:30px;
+    color:white;
+    
+}
+.chat-button{
+    position:absolute;
+    margin-left:320px;
+    top:25px;
+    text-decoration:none;
+    background:linear-gradient(to right,tomato,orangered);
+    padding:5px 15px;
+    color:wheat;
+    border-radius:3px;
+}
+.work-section{
+    height:300px;
+}
+.socail{
+    text-align:center;
+    width:200px;
+    margin-left:40%;
+}
+.socail-icon{
+    
+}
+.socail-icon img{
+    width:20px;
+    margin:10px;
+    display:inline-block;
+}
+.socail-icon h6{
+    padding-bottom:5px;
+}
+.footer-box{
+    width:25%;
+    float:left;
+    margin-top:40px;
+    
+}
+.footer-content{
+    margin:5% 10%;
+}
+footer{
+    background:linear-gradient(to top,rgba(189, 37, 14, 0.836),rgba(133, 91, 13, 0.938));
+    height:200px;
+}
+.footer-box ul{
+    list-style:none;
+    color:rgba(255, 255, 255, 0.514);
+}
+.footer-box ul li{
+    padding:5px 0;
+}
+.footer-box h3{
+    color:white
+}
